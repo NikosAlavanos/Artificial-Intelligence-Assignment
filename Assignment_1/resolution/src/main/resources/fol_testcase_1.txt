@@ -1,0 +1,4 @@
+¬Loves(x, Animal) ∨ Owns(x, Dog)
+¬Kills(x, Animal) ∨ ¬Loves(x, Animal)
+¬Kills(John, Animal)
+Loves(x, Animal) ∨ Kills(x, Animal)
